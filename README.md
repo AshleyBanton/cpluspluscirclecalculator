@@ -4,3 +4,6 @@ The following is a visual studio 2019 document written in c++ about a circle are
 Freedom is good!
 
 For Marijn and other related teachers/instructors. 
+
+
+Lorem Ipsum Software Incorporated.
